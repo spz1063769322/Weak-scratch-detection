@@ -3,4 +3,4 @@
 optical element》http://dx.doi.org/10.1016/j.optcom.2016.10.062.
 在实现过程中进行了一些简化，具体可参考代码
 
-讲解文章：
+参考文章：https://blog.csdn.net/spz1063769322/article/details/91285408
